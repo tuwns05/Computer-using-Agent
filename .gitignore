@@ -1,0 +1,7 @@
+.cache/
+__pycache__/
+*.log
+check_response.json
+.logs/
+.venv/
+debug-desktop.png
